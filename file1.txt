@@ -1,0 +1,1 @@
+this is first text in file1.txt in firstBranch
